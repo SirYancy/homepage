@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: erickuha.com
+Token: df00e6d93f116adc30fca49324494c25252316cfeeff72b09420797546279b9c
