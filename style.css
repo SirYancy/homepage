@@ -1,0 +1,10 @@
+.column {
+    margin: 2px;
+    border: 1px solid black;
+    background-color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 86%);
+}
+
+.column .title{
+    color: hsl(0, 0%, 86%);
+}
