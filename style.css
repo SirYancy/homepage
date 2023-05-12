@@ -6,5 +6,13 @@
 }
 
 .column .title{
+    color: hsl(0, 0%, 86%)
+}
+
+strong{
     color: hsl(0, 0%, 86%);
+}
+
+.column .subtitle {
+    color: hsl(48, 100%, 67%);
 }
